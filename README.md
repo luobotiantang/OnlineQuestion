@@ -19,46 +19,10 @@
        
     2、解决问题,解决问题的方法有很多可以寻求同时的帮助、网上搜索、查看官方文档等。  
 
-### 2019年读过的书
+### 2020年遇到的线上问题
 
-  - [《Java8实战》]()
-  
-  - [《深入理解Java虚拟机(第2版)》]()
- 
-  - [《Java多线程编程核心技术》]()
- 
-  - [《Java并发编程的艺术》]()
- 
-  - [《Java并发编程之美》]()
-  
-  - [《码出高效Java开发手册》]()
-  
-  - [《Java深入解析:透析Java本质的36个话题》]()
-  
-  - [《大话设计模式》]()
-  
-  - [《设计模式(Java版)》]()
-  
-  - [《设计模式之蝉(第2版)》]()
-  
-  - [《深入浅出MySQL》]()
-  
-  - [《Redis 5设计与源码分析》]()
-  
-  - [《RocketMQ实战与原理解析》]()
-  
-  - [《我的第一本算法》]()
-  
-  - [《编写高质量代码改善Java程序的151个建议》]()
-  
-  - [《MySQL技术内幕InnoDB存储引擎》]()
-
-### 2020年读过的书
-
-  - [《Elasticsearch技术解析与实战》-在读中](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
-  
-  - [《程序员的自我修养》](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/ProgrammerSelfCultivation.md)
-  
+  - [DecimalFormat导致线程阻塞的问题](https://github.com/luobotiantang/JavaRelatedBooks/blob/master/md/Elasticsearch.md)
+    
 ### 联系
 
 > reubenwang@foxmail.com
