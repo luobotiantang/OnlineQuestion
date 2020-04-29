@@ -22,6 +22,8 @@
 ### 2020年遇到的线上问题
 
   - [DecimalFormat导致线程阻塞的问题](https://github.com/luobotiantang/OnlineQuestion/blob/master/md/DecimalFormat.md)
+  
+  - [使用线程池导致的获取用户信息异常](https://github.com/luobotiantang/OnlineQuestion/blob/master/md/ThreadPool.md)
     
 ### 联系
 
