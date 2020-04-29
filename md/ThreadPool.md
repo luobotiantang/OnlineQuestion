@@ -114,7 +114,8 @@
                             TimeUnit.MILLISECONDS,
                             new LinkedBlockingDeque<>(100),
                             new NamedThreadFactory("IXXIDPHandler"),
-                            (r, executor) -> MONITOR.log("WARN 警告 " + executor + "线程池负载过高，任务被拒绝：" + r.toString())
+                            (r, executor) -> MONITOR.log("WARN 警告 " + executor + "线程池负载过高，
+                            任务被拒绝：" + r.toString())
                     ));
         
             /**
